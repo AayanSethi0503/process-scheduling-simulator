@@ -15,7 +15,7 @@ t.up()
 # set initial position for writing
 t.goto(100,200)
 
-# write processes text
+# write processes text with their coressponding colors
 
 t.color('red')
 t.write('Process 1 : RED',font=('Arial',8,'bold'))
